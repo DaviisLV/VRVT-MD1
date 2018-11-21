@@ -1,4 +1,4 @@
-package com.example.ligal.praktiskais1;
+package com.abols.davis.vrvt_md1;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.ligal.praktiskais1", appContext.getPackageName());
+        assertEquals("com.abols.davis.vrvt_md1", appContext.getPackageName());
     }
 }

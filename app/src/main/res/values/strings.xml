@@ -1,11 +1,9 @@
 <resources>
-    <string name="app_name">Praktiskais1</string>
-    <string name="tab_text_1">Kamera</string>
-    <string name="tab_text_2">Audio</string>
-    <string name="action_settings">Settings</string>
-    <string name="section_label">Sekcijas nosaukums</string>
-    <string name="section_format">Te bus teksts: %1$d</string>
-    <string name="catch_image">Uzņemt attēlu</string>
-    <string name="image_thumb">Uzņemtā attēla priekšskatījums</string>
-    <string name="app_description">Aplikācijas apraksts</string>
+    <string name="app_name">VRVT-MD1</string>
+
+    <string name="CamBtn">Uzņemt attēlu</string>
+    <string name="AudBtn">Ierakstīt Audio</string>
+    <string name="Info">Nepieciešama Atļauja piekļūt kamerai un krātuvei!</string>
+
+
 </resources>

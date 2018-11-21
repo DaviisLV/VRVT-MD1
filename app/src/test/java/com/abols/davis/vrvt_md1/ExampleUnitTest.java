@@ -1,4 +1,4 @@
-package com.example.ligal.praktiskais1;
+package com.abols.davis.vrvt_md1;
 
 import org.junit.Test;
 
